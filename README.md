@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @broogle
-- 👀 I’m interested in Programing/Web Dev
-- 🌱 I’m currently learning Web Dev
+- 👀 I’m interested in Java | Springboot | Microservices | Angular
+- 🌱 I’m currently working on Microservices
 - 📫 How to reach me - rohitushir27@gmail.com
 
 <!---
