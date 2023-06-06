@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @broogle
-- 👀 I’m interested in Java | Springboot | Microservices | Angular
-- 🌱 I’m currently working on Microservices
+- 👋 Hi, I’m Rohit
+- 👀 I’m interested in Java | Springboot | Microservices | React
+- 🌱 I’m currently working on SpringBoot, Microservices
 - 📫 How to reach me - rohitushir27@gmail.com
 
 <!---
