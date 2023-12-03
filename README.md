@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rohit
-- 👀 I’m interested in Java | Springboot | Microservices | React
-- 🌱 I’m currently working on SpringBoot, Microservices
+
   
 
 <!---
