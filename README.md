@@ -26,4 +26,4 @@ Hello, my name is Rohit Ushir and I am upcoming master's student at [Nottingham 
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=broogle&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broogle&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=broogle.broogle)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=broogle.README.md)
