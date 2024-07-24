@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Rohit](www.rohitushir.in/)! 😁
+### Hi there 👋, I am [Rohit](https://www.rohitushir.in/)! 😁
 
 Hello, my name is Rohit Ushir and I am upcoming master's student at [Nottingham Trent University](https://www.ntu.ac.uk/) majoring in Cloud and Enterprise Computing. I am a full-stack software developer with two years of experience working as a Software Engineer at [Kiya.ai](https://www.kiya.ai/). My technology stack involves Java/J2EE, SpringBoot, Microservices, Maven, Hibernate, MySQL, Javascript, Angular, and, HTML/CSS/Bootstrap.
 
@@ -6,7 +6,7 @@ Hello, my name is Rohit Ushir and I am upcoming master's student at [Nottingham 
 - 💬 Brainstorm with me over tech, career, politics and cricket 
 - 📫 How to reach me: rohitushir@gmail.com
 - ⚡ Checkout my [Linkedin](https://www.linkedin.com/in/broogle)
-- 📝 [Resume](www.rohitushir.in)
+- 📝 [Resume](https://www.rohitushir.in)
 
 **Languages and Tools:** 
 
