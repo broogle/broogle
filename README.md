@@ -6,7 +6,7 @@ Hello, my name is Rohit Ushir and I am upcoming master's student at [Nottingham 
 - 💬 Brainstorm with me over tech, career, politics and cricket 
 - 📫 How to reach me: rohitushir@gmail.com
 - ⚡ Checkout my [Linkedin](https://www.linkedin.com/in/broogle)
-- 📝 [Resume](https://www.rohitushir.in)
+- 📝 [Resume](https://drive.google.com/file/d/1tARCp2kkLOnhYbFDQS_1BYcrtji8dQ0L/view?usp=sharing)
 
 **Languages and Tools:** 
 
